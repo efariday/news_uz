@@ -7,7 +7,7 @@ def send_email(subject, intro_text, email, token, template, password=None):
         "intro_text": intro_text,
         "token": token,
         "password": password,
-        "frontend_url": "http://localhost:8000",
+        "frontend_url": "http://localhost:8003",
     }
     html_content = render_to_string(template, context)
     email_message = EmailMessage(subject, html_content, to=[email])
