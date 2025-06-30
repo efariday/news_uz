@@ -1,0 +1,11 @@
+<!-- templates/email/verify_email.html -->
+<html>
+  <body>
+    <h3>{{ subject }}</h3>
+    <p>{{ intro_text }}</p>
+    <p>Token: {{ token }}</p>
+    {% if password %}
+      <p>Yangi parolingiz: {{ password }}</p>
+    {% endif %}
+  </body>
+</html>
