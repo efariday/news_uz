@@ -5,61 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81964d89-a306-4916-985e-98b95f70fd84" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accounts/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accounts/email_send.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/news/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/news/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/news/api_endpoints/NewsCreate/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/news/api_endpoints/NewsCreate/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/news/api_endpoints/NewsCreate/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/news/api_endpoints/NewsDelete/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/news/api_endpoints/NewsDelete/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/news/api_endpoints/NewsDelete/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/news/api_endpoints/NewsDetail/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/news/api_endpoints/NewsDetail/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/news/api_endpoints/NewsDetail/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/news/api_endpoints/NewsList/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/news/api_endpoints/NewsList/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/news/api_endpoints/NewsList/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/news/api_endpoints/NewsUpdate/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/news/api_endpoints/NewsUpdate/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/news/api_endpoints/NewsUpdate/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/news/api_endpoints/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/news/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/news/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/news/tasks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/news/translation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/news/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/email/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/email/verify_email.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/api_endpoints/LoginSession/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/api_endpoints/LoginSession/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/api_endpoints/LoginSession/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/api_endpoints/LogoutSession/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/api_endpoints/LogoutSession/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/api_endpoints/LogoutSession/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/api_endpoints/Profile/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/api_endpoints/Profile/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/api_endpoints/Profile/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/api_endpoints/RegisterConfirm/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/api_endpoints/RegisterConfirm/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/api_endpoints/RegisterConfirm/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/api_endpoints/RegisterUser/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/api_endpoints/RegisterUser/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/api_endpoints/RegisterUser/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/api_endpoints/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/managers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
